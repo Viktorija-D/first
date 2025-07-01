@@ -1,7 +1,6 @@
 This is the first push
-^X 
 
-
+this is a second edit to this file
 
 
 :w
